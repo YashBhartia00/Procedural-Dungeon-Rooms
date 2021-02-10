@@ -2,6 +2,7 @@
 procedural rooms algorithm using delaunay
 
 1. Generate squares of random sizes and let unity seperate them (with some optimizations from my side like maintain grid)
+
 ![][ScreenShots/proc1.png)
 
 2. Highlight and store rooms which can be *Main Rooms*
