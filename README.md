@@ -1,4 +1,4 @@
-# Procedural_Dungeon_Rooms
+# Procedural Dungeon Rooms
 ## Procedural rooms algorithm using delaunay
 
 1. Generate squares of random sizes and let unity seperate them (with some optimizations from my side like maintain grid)
